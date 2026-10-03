@@ -1,0 +1,3 @@
+# `cargo verify` runs every check the project has; see examples/verify.rs.
+[alias]
+verify = "run --quiet --release --example verify --"
